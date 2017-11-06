@@ -1,5 +1,5 @@
 # json-tranformer
-Transforms NoSQL document into RDBS documents
+Transforms NoSQL document into normalized documents for RDBMS.
 
 ## Running Steps:
 - Copy the input JSON file (example: accounts.json) into ./input directory
