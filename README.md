@@ -5,6 +5,10 @@ Transforms NoSQL document into RDBS documents
 - Copy the input JSON file (example: accounts.json) into ./input directory
 - Run the below node command
 ```
+node index filename.json
+```
+### Example
+```
 node index accounts.json
 ```
  
